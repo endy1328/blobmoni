@@ -1,0 +1,7 @@
+account_1_containers:
+account_2_containers:
+- k11
+- k12
+- k13
+refresh_interval: 60
+log_level: DEBUG 

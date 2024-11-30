@@ -1,0 +1,46 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+env/
+venv/
+.venv/
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Python tool caches
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.coverage
+htmlcov/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Pipenv
+Pipfile.lock
+
+# Docker
+*.pid
+
+# Logs and environment files
+*.log
+.env
+
+# Dedicated
+wheelhouse/
+temp_docs/
+.env
+*.zip
